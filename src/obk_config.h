@@ -341,7 +341,7 @@
 #endif
 //#define ENABLE_DRIVER_NEO6M					1
 //#define ENABLE_DRIVER_ARISTON					1
-//#define ENABLE_DRIVER_ROOMBA				    1
+#define ENABLE_DRIVER_ROOMBA				    1
 
 // ENABLE_I2C_ is a syntax for
 // our I2C system defines for drv_i2c_main.c
